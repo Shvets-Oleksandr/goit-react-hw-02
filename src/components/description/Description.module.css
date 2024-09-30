@@ -1,0 +1,10 @@
+.appTitle {
+  color: rgb(32, 26, 67);
+  font-size: 2.5em;
+  line-height: 1.1;
+}
+
+.appDscr {
+  line-height: 1.5;
+  font-weight: 500;
+}
